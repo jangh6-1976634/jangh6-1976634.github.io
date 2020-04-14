@@ -1,0 +1,29 @@
+body {
+    background-color: #F8E1F4;
+}
+
+h1 {
+    color: #511845;
+    font-family: 'Bell MT';
+}
+
+p {
+    color: #721B65;
+    font-family: 'Bell MT';
+}
+
+div {
+    margin: 5px;
+    width: 50px;
+    height: 620px;
+}
+
+.left {
+    float: left;
+    background: rgb(194, 233, 182);
+}
+  
+.right {
+    float: right;
+    background: rgb(194, 233, 182);
+}
