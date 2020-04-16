@@ -36,8 +36,6 @@ h3{
     padding-bottom: 8px;
     border: solid 8px black;
 }
-#LeftNav{
-}
 #Content{
     width: 700px;
     margin-left: auto;
@@ -62,4 +60,9 @@ a{
     color: white;
     font-weight: bold;
     font-size: 24px;
+}
+#bow {
+    color: #FFBC00;
+    font-weight: bold;
+    font-size: 20px;
 }
